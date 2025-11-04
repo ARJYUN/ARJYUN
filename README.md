@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Arjun</h1>
 <h3 align="center">A passionate developer.</h3>
 <h4 align="center">Currently doing some useless projects</h4><br>
-<img align="right" width="400" src="https://camo.githubusercontent.com/4d9f5ecceb711eec6e2018f38a5677dc657c9738d4a65ba3b928c41c0a45b439/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966">
+<img align="right" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2FTridibD004%2FTridibD004&psig=AOvVaw2BZRPNPN2iTpVnHjQq7Z_O&ust=1762323273413000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCJi_wfrr15ADFQAAAAAdAAAAABBE">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arjyun&label=Profile%20views&color=0e75b6&style=flat" alt="arjyun" /> </p>
 
