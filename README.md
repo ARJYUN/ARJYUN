@@ -1,32 +1,120 @@
-<img align="center" width="1200" src="https://camo.githubusercontent.com/ec6e701d5e31850db670217ea82f9f4757ce95be5313b17c3b6f57ea591887d5/68747470733a2f2f7265732e636c6f7564696e6172792e636f6d2f7375706572666f6c696f2f696d6167652f75706c6f61642f76313632303638393937392f36383734373437303733336132663266363932653730363936653639366436373265363336663664326636663732363936373639366536313663373332663633333632663333333332663633333232663633333633333333363333323330363536343635333833323636333036353330363336353634333736343335333733303634363236353333363133313636333332653637363936365f796a756832732e676966">
-<h1 align="center">Hi 👋, I'm Arjun</h1>
-<h3 align="center">A passionate developer.</h3>
-<h4 align="center">Currently doing some useless projects</h4><br>
-<img align="right" width="400" src="https://camo.githubusercontent.com/2258ba0f05163f3778f6ec7608f1c0f9247c337ff15ed2e0adaee102e1c44142/68747470733a2f2f6d656469612e74656e6f722e636f6d2f336254785a34486472797341414141642f706978656c732d6e656f6e2e676966">
+<div align="center">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=arjyun&label=Profile%20views&color=0e75b6&style=flat" alt="arjyun" /> </p>
+```text
+░█████╗░██████╗░     ██╗██╗   ██╗███╗   ██╗
+██╔══██╗██╔══██╗     ██║██║   ██║████╗  ██║
+███████║██████╔╝     ██║██║   ██║██╔██╗ ██║
+██╔══██║██╔══██╗██   ██║██║   ██║██║╚██╗██║
+██║  ██║██║  ██║╚█████╔╝╚██████╔╝██║ ╚████║
+╚═╝  ╚═╝╚═╝  ╚═╝ ╚════╝  ╚═════╝ ╚═╝  ╚═══╝
 
-- 🌱 I’m currently learning **MERN, Android Studio**
+[ INIT ] Starting System..................... OK
+[ INIT ] Loading Profile: arjun.............. OK
+[ INIT ] Bypassing security protocols........ ACCESS GRANTED
+```
 
-- 👨‍💻 All of my projects are available at [https://github.com/ARJYUN](https://github.com/ARJYUN)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00FF41&background=00000000&center=true&vCenter=true&width=800&lines=console.log(%22Passionate+Developer+%F0%9F%9A%80%22);echo+%22Building+useless+things+%F0%9F%94%A5%22;import+%7B+MERN,+Android,+IoT+%7D;.%2Fexecute_open_source.sh)](https://github.com/ARJYUN)
 
-- 📫 How to reach me **arjunk.karjun.arjunk@gmail.com**
+<img src="https://komarev.com/ghpvc/?username=arjyun&label=SYS.VIEWS&color=00ff41&style=for-the-badge" />
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/arjun-k-ba7a99311" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="arjun-k-ba7a99311" height="30" width="40" /></a>
-<a href="https://instagram.com/arjyun__k" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="arjyun__k" height="30" width="40" /></a>
-</p>
+</div>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+---
 
-<h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/arjyun"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="arjyun" /></a></p><br><br><br>
+### 💻 `arjun@mainframe:~$ whoami --verbose`
+```json
+{
+  "user": "Arjun K",
+  "base": "Kerala, India 🇮🇳",
+  "role": ["Full-Stack Developer", "Tinkerer", "IoT Enthusiast"],
+  "status": "Compiling MERN & Android Studio knowledge...",
+  "contact": {
+    "email": "arjunk.karjun.arjunk@gmail.com",
+    "portfolio": "https://arjunk.vercel.app"
+  }
+}
+```
 
-<br><p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=arjyun&show_icons=true&locale=en&layout=compact" alt="arjyun" /></p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=arjyun&show_icons=true&locale=en" alt="arjyun" /></p>
+### 📂 `arjun@mainframe:~$ ls -la /usr/bin/skills`
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=arjyun&" alt="arjyun"  /></p>
+<div align="center">
 
+<details>
+<summary><code>drwxr-xr-x 1 arjun root 4096 May 04 12:00 skills/</code> (Click to expand)</summary>
+<br>
+
+| `drwxr-xr-x` Languages | `drwxr-xr-x` Web & Mobile | `drwxr-xr-x` Tools & OS |
+|:---:|:---:|:---:|
+| ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white) <br> ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white) <br> ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) <br> ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) <br> ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white) | ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) <br> ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) <br> ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white) <br> ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) | ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) <br> ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) <br> ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white) <br> ![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobe-photoshop&logoColor=white) |
+
+</details>
+
+</div>
+
+---
+
+### 📊 `arjun@mainframe:~$ htop -u arjun -p skills_progress`
+```text
+  PID USER      PRI  NI  VIRT   RES   SHR S CPU% MEM%   TIME+  COMMAND
+ 1337 arjun      20   0  2048M 1024M  512 R 99.9 45.2  23:42.1 node ./mern-stack.js [■■■■■■■■░░] 80%
+ 2048 arjun      20   0  4096M 3048M 1024 S 45.3 65.4  12:14.3 studio android-dev    [■■■■■░░░░░] 50%
+  101 arjun      10 -10   256M   64M   32 S 10.5 10.2 145:10.5 ./cpp_mastery        [■■■■■■■■■░] 90%
+  404 arjun      20   0  1024M  512M  128 S 25.1 20.1  45:12.7 python3 main.py      [■■■■■■■░░░] 70%
+   80 arjun      20   0   512M  256M   64 S 15.0 15.0  80:44.2 arduino-cli compile  [■■■■■■■■░░] 80%
+  200 arjun      20   0   256M  128M   32 S 20.4 12.1  50:22.1 html/css web-dev     [■■■■■■░░░░] 60%
+```
+
+---
+
+### 📡 `arjun@mainframe:~$ ping -c 5 network.socials`
+<div align="center">
+
+[![Portfolio](https://img.shields.io/badge/PING_Portfolio-arjunk.vercel.app-00FF41?style=for-the-badge&logoColor=white)](https://arjunk.vercel.app)
+[![GitHub](https://img.shields.io/badge/PING_GitHub-ARJYUN-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ARJYUN)
+[![LinkedIn](https://img.shields.io/badge/PING_LinkedIn-Arjun_K-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/arjun-k-ba7a99311)
+[![Instagram](https://img.shields.io/badge/PING_Instagram-@arjyun__k-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/arjyun__k)
+[![Email](https://img.shields.io/badge/PING_Email-arjunk@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:arjunk.karjun.arjunk@gmail.com)
+
+</div>
+
+---
+
+### 📈 `arjun@mainframe:~$ curl -X GET https://api.github.com/users/arjyun/stats`
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=arjyun&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0d0d0d&title_color=00ff41&icon_color=00ff41&text_color=ffffff" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arjyun&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0d0d0d&title_color=00ff41&text_color=ffffff" />
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=arjyun&theme=terminal&hide_border=true&background=0d0d0d&ring=00ff41&fire=00ff41&currStreakLabel=00ff41" />
+
+</div>
+
+---
+
+### 📉 `arjun@mainframe:~$ ./render_activity_graph.sh`
+<div align="center">
+
+[![Arjun's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=arjyun&bg_color=0d0d0d&color=00ff41&line=00ff41&point=ffffff&area=true&hide_border=true)](https://github.com/ARJYUN)
+
+</div>
+
+---
+
+<div align="center">
+
+```bash
+root@mainframe:~# cat /etc/motd
+╔══════════════════════════════════════════════════════╗
+║   "First, solve the problem. Then, write the code."  ║
+║                                       — John Johnson ║
+╚══════════════════════════════════════════════════════╝
+
+root@mainframe:~# logout
+Connection to mainframe closed.
+```
+
+*← Made with 💚 and 0 warnings →*
+
+</div>
