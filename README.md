@@ -84,9 +84,6 @@
 ### 📈 `arjun@mainframe:~$ curl -X GET https://api.github.com/users/arjyun/stats`
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=arjyun&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0d0d0d&title_color=00ff41&icon_color=00ff41&text_color=ffffff" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arjyun&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0d0d0d&title_color=00ff41&text_color=ffffff" />
-
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=arjyun&theme=terminal&hide_border=true&background=0d0d0d&ring=00ff41&fire=00ff41&currStreakLabel=00ff41" />
 
 </div>
